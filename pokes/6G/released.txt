@@ -1,28 +1,28 @@
-﻿0:0 Missingno
+0:0 Missingno
 1:0 Bulbasaur
 2:0 Ivysaur
-3:0 Venusaur
-3:1 Mega Venusaur
+3:0:H Venusaur
+3:1:M Mega Venusaur
 4:0 Charmander
 5:0 Charmeleon
-6:0 Charizard
-6:1 Mega Charizard X
-6:2 Mega Charizard Y
+6:0:H Charizard
+6:1:M Mega Charizard X
+6:2:M Mega Charizard Y
 7:0 Squirtle
 8:0 Wartortle
-9:0 Blastoise
-9:1 Mega Blastoise
+9:0:H Blastoise
+9:1:M Mega Blastoise
 10:0 Caterpie
 11:0 Metapod
 12:0 Butterfree
 13:0 Weedle
 14:0 Kakuna
-15:0 Beedrill
-15:1 Mega Beedrill
+15:0:H Beedrill
+15:1:M Mega Beedrill
 16:0 Pidgey
 17:0 Pidgeotto
-18:0 Pidgeot
-18:1 Mega Pidgeot
+18:0:H Pidgeot
+18:1:M Mega Pidgeot
 19:0 Rattata
 20:0 Raticate
 21:0 Spearow
@@ -75,8 +75,8 @@
 62:0 Poliwrath
 63:0 Abra
 64:0 Kadabra
-65:0 Alakazam
-65:1 Mega Alakazam
+65:0:H Alakazam
+65:1:M Mega Alakazam
 66:0 Machop
 67:0 Machoke
 68:0 Machamp
@@ -91,8 +91,8 @@
 77:0 Ponyta
 78:0 Rapidash
 79:0 Slowpoke
-80:0 Slowbro
-80:1 Mega Slowbro
+80:0:H Slowbro
+80:1:M Mega Slowbro
 81:0 Magnemite
 82:0 Magneton
 83:0 Farfetch'd
@@ -106,8 +106,8 @@
 91:0 Cloyster
 92:0 Gastly
 93:0 Haunter
-94:0 Gengar
-94:1 Mega Gengar 
+94:0:H Gengar
+94:1:M Mega Gengar 
 95:0 Onix
 96:0 Drowzee
 97:0 Hypno
@@ -128,8 +128,8 @@
 112:0 Rhydon
 113:0 Chansey
 114:0 Tangela
-115:0 Kangaskhan
-115:1 Mega Kangaskhan
+115:0:H Kangaskhan
+115:1:M Mega Kangaskhan
 116:0 Horsea
 117:0 Seadra
 118:0 Goldeen
@@ -141,12 +141,12 @@
 124:0 Jynx
 125:0 Electabuzz
 126:0 Magmar
-127:0 Pinsir
-127:1 Mega Pinsir
+127:0:H Pinsir
+127:1:M Mega Pinsir
 128:0 Tauros
 129:0 Magikarp
-130:0 Gyarados
-130:1 Mega Gyarados
+130:0:H Gyarados
+130:1:M Mega Gyarados
 131:0 Lapras
 132:0 Ditto
 133:0 Eevee
@@ -158,8 +158,8 @@
 139:0 Omastar
 140:0 Kabuto
 141:0 Kabutops
-142:0 Aerodactyl
-142:1 Mega Aerodactyl
+142:0:H Aerodactyl
+142:1:M Mega Aerodactyl
 143:0 Snorlax
 144:0 Articuno
 145:0 Zapdos
@@ -167,9 +167,9 @@
 147:0 Dratini
 148:0 Dragonair
 149:0 Dragonite
-150:0 Mewtwo
-150:1 Mega Mewtwo X
-150:2 Mega Mewtwo Y
+150:0:H Mewtwo
+150:1:M Mega Mewtwo X
+150:2:M Mega Mewtwo Y
 151:0 Mew
 152:0 Chikorita
 153:0 Bayleef
@@ -192,6 +192,7 @@
 170:0 Chinchou
 171:0 Lanturn
 172:0 Pichu
+172:1 Spiky Pichu
 173:0 Cleffa
 174:0 Igglybuff
 175:0 Togepi
@@ -200,8 +201,8 @@
 178:0 Xatu
 179:0 Mareep
 180:0 Flaaffy
-181:0 Ampharos
-181:1 Mega Ampharos
+181:0:H Ampharos
+181:1:M Mega Ampharos
 182:0 Bellossom
 183:0 Marill
 184:0 Azumarill
@@ -228,16 +229,16 @@
 205:0 Forretress
 206:0 Dunsparce
 207:0 Gligar
-208:0 Steelix
-208:1 Mega Steelix
+208:0:H Steelix
+208:1:M Mega Steelix
 209:0 Snubbull
 210:0 Granbull
 211:0 Qwilfish
-212:0 Scizor
-212:1 Mega Scizor
+212:0:H Scizor
+212:1:M Mega Scizor
 213:0 Shuckle
-214:0 Heracross
-214:1 Mega Heracross
+214:0:H Heracross
+214:1:M Mega Heracross
 215:0 Sneasel
 216:0 Teddiursa
 217:0 Ursaring
@@ -252,8 +253,8 @@
 226:0 Mantine
 227:0 Skarmory
 228:0 Houndour
-229:0 Houndoom
-229:1 Mega Houndoom
+229:0:H Houndoom
+229:1:M Mega Houndoom
 230:0 Kingdra
 231:0 Phanpy
 232:0 Donphan
@@ -272,23 +273,23 @@
 245:0 Suicune
 246:0 Larvitar
 247:0 Pupitar
-248:0 Tyranitar
-248:1 Mega Tyranitar
+248:0:H Tyranitar
+248:1:M Mega Tyranitar
 249:0 Lugia
 250:0 Ho-Oh
 251:0 Celebi
 252:0 Treecko
 253:0 Grovyle
-254:0 Sceptile
-254:1 Mega Sceptile
+254:0:H Sceptile
+254:1:M Mega Sceptile
 255:0 Torchic
 256:0 Combusken
-257:0 Blaziken
-257:1 Mega Blaziken
+257:0:H Blaziken
+257:1:M Mega Blaziken
 258:0 Mudkip
 259:0 Marshtomp
-260:0 Swampert
-260:1 Mega Swampert
+260:0:H Swampert
+260:1:M Mega Swampert
 261:0 Poochyena
 262:0 Mightyena
 263:0 Zigzagoon
@@ -310,8 +311,8 @@
 279:0 Pelipper
 280:0 Ralts
 281:0 Kirlia
-282:0 Gardevoir
-282:1 Mega Gardevoir
+282:0:H Gardevoir
+282:1:M Mega Gardevoir
 283:0 Surskit
 284:0 Masquerain
 285:0 Shroomish
@@ -331,20 +332,20 @@
 299:0 Nosepass
 300:0 Skitty
 301:0 Delcatty
-302:0 Sableye
-302:1 Mega Sableye
-303:0 Mawile
-303:1 Mega Mawile
+302:0:H Sableye
+302:1:M Mega Sableye
+303:0:H Mawile
+303:1:M Mega Mawile
 304:0 Aron
 305:0 Lairon
-306:0 Aggron
-306:1 Mega Aggron
+306:0:H Aggron
+306:1:M Mega Aggron
 307:0 Meditite
-308:0 Medicham
-308:1 Mega Medicham
+308:0:H Medicham
+308:1:M Mega Medicham
 309:0 Electrike
-310:0 Manectric
-310:1 Mega Manectric
+310:0:H Manectric
+310:1:M Mega Manectric
 311:0 Plusle
 312:0 Minun
 313:0 Volbeat
@@ -353,13 +354,13 @@
 316:0 Gulpin
 317:0 Swalot
 318:0 Carvanha
-319:0 Sharpedo
-319:1 Mega Sharpedo
+319:0:H Sharpedo
+319:1:M Mega Sharpedo
 320:0 Wailmer
 321:0 Wailord
 322:0 Numel
-323:0 Camerupt
-323:1 Mega Camerupt
+323:0:H Camerupt
+323:1:M Mega Camerupt
 324:0 Torkoal
 325:0 Spoink
 326:0 Grumpig
@@ -370,8 +371,8 @@
 331:0 Cacnea
 332:0 Cacturne
 333:0 Swablu
-334:0 Altaria
-334:1 Mega Altaria
+334:0:H Altaria
+334:1:M Mega Altaria
 335:0 Zangoose
 336:0 Seviper
 337:0 Lunatone
@@ -388,21 +389,21 @@
 348:0 Armaldo
 349:0 Feebas
 350:0 Milotic
-351:0 Castform
+351:0:B Castform
 352:0 Kecleon
 353:0 Shuppet
-354:0 Banette
-354:1 Mega Banette
+354:0:H Banette
+354:1:M Mega Banette
 355:0 Duskull
 356:0 Dusclops
 357:0 Tropius
 358:0 Chimecho
-359:0 Absol
-359:1 Mega Absol
+359:0:H Absol
+359:1:M Mega Absol
 360:0 Wynaut
 361:0 Snorunt
-362:0 Glalie
-362:1 Mega Glalie
+362:0:H Glalie
+362:1:M Mega Glalie
 363:0 Spheal
 364:0 Sealeo
 365:0 Walrein
@@ -413,25 +414,25 @@
 370:0 Luvdisc
 371:0 Bagon
 372:0 Shelgon
-373:0 Salamence
-373:1 Mega Salamence
+373:0:H Salamence
+373:1:M Mega Salamence
 374:0 Beldum
 375:0 Metang
-376:0 Metagross
-376:1 Mega Metagross
+376:0:H Metagross
+376:1:M Mega Metagross
 377:0 Regirock
 378:0 Regice
 379:0 Registeel
-380:0 Latias
-380:1 Mega Latias
-381:0 Latios
-381:1 Mega Latios
-382:0 Kyogre
-382:1 Primal Kyogre
-383:0 Groudon
-383:1 Primal Groudon
-384:0 Rayquaza
-384:1 Mega Rayquaza
+380:0:H Latias
+380:1:M Mega Latias
+381:0:H Latios
+381:1:M Mega Latios
+382:0:H Kyogre
+382:1:M Primal Kyogre
+383:0:H Groudon
+383:1:M Primal Groudon
+384:0:H Rayquaza
+384:1:M Mega Rayquaza
 385:0 Jirachi
 386:0 Deoxys
 387:0 Turtwig
@@ -468,15 +469,15 @@
 418:0 Buizel
 419:0 Floatzel
 420:0 Cherubi
-421:0 Cherrim
+421:0:B Cherrim
 422:0 Shellos
 423:0 Gastrodon
 424:0 Ambipom
 425:0 Drifloon
 426:0 Drifblim
 427:0 Buneary
-428:0 Lopunny
-428:1 Mega Lopunny
+428:0:H Lopunny
+428:1:M Mega Lopunny
 429:0 Mismagius
 430:0 Honchkrow
 431:0 Glameow
@@ -493,12 +494,12 @@
 442:0 Spiritomb
 443:0 Gible
 444:0 Gabite
-445:0 Garchomp
-445:1 Mega Garchomp
+445:0:H Garchomp
+445:1:M Mega Garchomp
 446:0 Munchlax
 447:0 Riolu
-448:0 Lucario
-448:1 Mega Lucario
+448:0:H Lucario
+448:1:M Mega Lucario
 449:0 Hippopotas
 450:0 Hippowdon
 451:0 Skorupi
@@ -510,8 +511,8 @@
 457:0 Lumineon
 458:0 Mantyke
 459:0 Snover
-460:0 Abomasnow
-460:1 Mega Abomasnow
+460:0:H Abomasnow
+460:1:M Mega Abomasnow
 461:0 Weavile
 462:0 Magnezone
 463:0 Lickilicky
@@ -526,8 +527,8 @@
 472:0 Gliscor
 473:0 Mamoswine
 474:0 Porygon-Z
-475:0 Gallade
-475:1 Mega Gallade
+475:0:H Gallade
+475:1:M Mega Gallade
 476:0 Probopass
 477:0 Dusknoir
 478:0 Froslass
@@ -602,7 +603,6 @@
 493:15 Arceus-Dragon
 493:16 Arceus-Dark
 493:17 Arceus-Fairy
-493:18 Arceus-???
 412:1 Burmy-G
 412:2 Burmy-S
 351:1 Castform-Snowy
@@ -648,8 +648,8 @@
 528:0 Swoobat
 529:0 Drilbur
 530:0 Excadrill
-531:0 Audino
-531:1 Mega Audino
+531:0:H Audino
+531:1:M Mega Audino
 532:0 Timburr
 533:0 Gurdurr
 534:0 Conkeldurr
@@ -674,7 +674,7 @@
 552:0 Krokorok
 553:0 Krookodile
 554:0 Darumaka
-555:0 Darmanitan
+555:0:B Darmanitan
 555:1 Darmanitan-D
 556:0 Maractus
 557:0 Dwebble
@@ -780,7 +780,7 @@
 646:2 Kyurem-B
 647:0 Keldeo
 647:1 Keldeo-R
-648:0 Meloetta
+648:0:B Meloetta
 648:1 Meloetta-S
 649:0 Genesect
 649:1 Genesect-D
@@ -860,7 +860,7 @@
 678:1 Meowstic-F
 679:0 Honedge
 680:0 Doublade
-681:0 Aegislash
+681:0:B Aegislash
 681:1 Aegislash-B
 682:0 Spritzee
 683:0 Aromatisse
@@ -905,8 +905,23 @@
 716:0 Xerneas
 717:0 Yveltal
 718:0 Zygarde
-719:0 Diancie
-719:1 Mega Diancie
+719:0:H Diancie
+719:1:M Mega Diancie
 720:0 Hoopa
 720:1 Hoopa-B
 721:0 Volcanion
+722:0 Dilloom
+723:0 Dillow
+724:0 Dillossus
+725:0 Dynamouse
+726:0 Pyrode
+727:0 Raxplode
+728:0 Aquopony
+729:0 Chevalage
+730:0 Reefallion
+731:0 Millar
+732:0 Tocon
+733:0 Lurkee
+734:0 Speck
+735:0 Pecule
+736:0 Wredator
